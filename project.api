@@ -1,0 +1,3 @@
+# controls.h controls.hpp task.hpp
+!main.cpp cctype cerrno clocale controls.hpp cstdint cstdio cstdlib ctype.h cwchar cwctype errno.h exception graphics.h initializer_list ios iosfwd iostream istream keys_n_colors.h limits limits.h locale.h new ostream signal.h stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string_view system_error task.hpp type_traits typeinfo wchar.h wctype.h #<#>
+main() -> int #<main.cpp>
